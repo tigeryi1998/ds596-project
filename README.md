@@ -24,8 +24,32 @@ This folder has the intermediate results from the tree construction as xml files
 ## result
 This folder has 3 png image files as the main result of this project 
 
+### nj_tree.png
+
+![alt text](result/nj_tree.png)
+
 nj_tree.png is the Neighbor Joining tree
+
+### upgma_tree.png
+
+![alt text](result/upgma_tree.png)
 
 upgma_tree.pgn is the UPGMA tree
 
+### table.png
+
+![alt text](result/table.png)
+
 table.png is the result of SNP extraction and the position of mutations
+
+### table_GA_AA.png
+
+![alt text](result/table_GA_AA.png)
+
+table_GA_AA.png is to focus on APOBEC3-like mutations GA>AA
+
+### table_TC_TT.png
+
+![alt text](result/table_TC_TT.png)
+
+table_TC_TT.png is to focus on APOBEC3-like mutations TC>TT
